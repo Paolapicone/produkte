@@ -28,10 +28,10 @@ body {
 }
 .display-2 {
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.44rem;
 }
 .display-4 {
   font-family: 'Open Sans Condensed', sans-serif;
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.72rem;
+    font-size: calc( 0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -1326,6 +1326,20 @@ body {
     max-width: 20%;
     padding: 15px;
   }
+}
+.cid-qJJFTNQ1wJ {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/fondo-1999x1270.jpg");
+}
+.cid-qJJFTNQ1wJ .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qJJFTNQ1wJ H2 {
+  color: #000000;
+}
+.cid-qJJFTNQ1wJ H3 {
+  color: #000000;
 }
 .cid-qJEoz8drCR {
   padding-top: 15px;
